@@ -42,6 +42,7 @@ header {
 	position: fixed;
 	top: 0;
 	width: 80%;
+	border-top: 20px solid #EEE;
 }
 #logo {
 	width: 250px;
